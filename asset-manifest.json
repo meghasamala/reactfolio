@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/reactfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactfolio/static/js/main.99ed8c07.chunk.js",
-    "main.js.map": "/reactfolio/static/js/main.99ed8c07.chunk.js.map",
-    "runtime-main.js": "/reactfolio/static/js/runtime-main.0e473b0c.js",
-    "runtime-main.js.map": "/reactfolio/static/js/runtime-main.0e473b0c.js.map",
-    "static/js/2.b7ad5c52.chunk.js": "/reactfolio/static/js/2.b7ad5c52.chunk.js",
-    "static/js/2.b7ad5c52.chunk.js.map": "/reactfolio/static/js/2.b7ad5c52.chunk.js.map",
-    "static/js/3.7f96171b.chunk.js": "/reactfolio/static/js/3.7f96171b.chunk.js",
-    "static/js/3.7f96171b.chunk.js.map": "/reactfolio/static/js/3.7f96171b.chunk.js.map",
+    "main.css": "/reactfolio/static/css/main.688524b8.chunk.css",
+    "main.js": "/reactfolio/static/js/main.96edf2cd.chunk.js",
+    "main.js.map": "/reactfolio/static/js/main.96edf2cd.chunk.js.map",
+    "runtime-main.js": "/reactfolio/static/js/runtime-main.981de4a4.js",
+    "runtime-main.js.map": "/reactfolio/static/js/runtime-main.981de4a4.js.map",
+    "static/js/2.bf040cd6.chunk.js": "/reactfolio/static/js/2.bf040cd6.chunk.js",
+    "static/js/2.bf040cd6.chunk.js.map": "/reactfolio/static/js/2.bf040cd6.chunk.js.map",
+    "static/js/3.c7f1b036.chunk.js": "/reactfolio/static/js/3.c7f1b036.chunk.js",
+    "static/js/3.c7f1b036.chunk.js.map": "/reactfolio/static/js/3.c7f1b036.chunk.js.map",
     "index.html": "/reactfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/reactfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b7ad5c52.chunk.js.LICENSE.txt": "/reactfolio/static/js/2.b7ad5c52.chunk.js.LICENSE.txt"
+    "static/css/main.688524b8.chunk.css.map": "/reactfolio/static/css/main.688524b8.chunk.css.map",
+    "static/js/2.bf040cd6.chunk.js.LICENSE.txt": "/reactfolio/static/js/2.bf040cd6.chunk.js.LICENSE.txt",
+    "static/media/codequiz.png": "/reactfolio/static/media/codequiz.6893ade7.png",
+    "static/media/image0.e7d41ebc.jpg": "/reactfolio/static/media/image0.e7d41ebc.jpg",
+    "static/media/pwgen.png": "/reactfolio/static/media/pwgen.5e0aa87d.png",
+    "static/media/runbuddy.png": "/reactfolio/static/media/runbuddy.97a3f019.png",
+    "static/media/soundtracker.png": "/reactfolio/static/media/soundtracker.74f5bdf0.png",
+    "static/media/tasky.png": "/reactfolio/static/media/tasky.88e26b51.png",
+    "static/media/zookeepr.png": "/reactfolio/static/media/zookeepr.7cdce234.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e473b0c.js",
-    "static/js/2.b7ad5c52.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.99ed8c07.chunk.js"
+    "static/js/runtime-main.981de4a4.js",
+    "static/js/2.bf040cd6.chunk.js",
+    "static/css/main.688524b8.chunk.css",
+    "static/js/main.96edf2cd.chunk.js"
   ]
 }
